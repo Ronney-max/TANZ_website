@@ -1,0 +1,10 @@
+export const modules = [
+{slug:'pms',name:'Property management',short:'PMS',icon:'building',text:'From first reservation to final checkout. Bring rooms, rates, guest profiles and front desk operations into one view.',features:['Reservations & room allocation','Guest check-in and checkout','Folio & billing management']},
+{slug:'pos',name:'Point of sale',short:'POS',icon:'receipt',text:'Keep every order moving. Connect your restaurant, bar and room service to the rest of your property.',features:['Restaurant & bar orders','Room charges & split bills','Outlet performance']},
+{slug:'channel-manager',name:'Channel manager',short:'Distribution',icon:'network',text:'Bring your booking channels together with a shared view of availability and rates.',features:['Availability across channels','Rate updates','Reservation consolidation']},
+{slug:'booking-engine',name:'Booking engine',short:'Direct bookings',icon:'calendar',text:'Turn website visitors into guests with a clear, simple direct booking journey.',features:['Room & rate selection','Booking confirmations','Offers & packages']},
+{slug:'crm',name:'Guest relationships',short:'CRM',icon:'users',text:'Remember the details that make a stay special. Build richer guest profiles and more thoughtful communication.',features:['Guest preferences','Stay history','Guest communication']},
+{slug:'housekeeping',name:'Housekeeping',short:'Operations',icon:'sparkles',text:'Keep the front desk and housekeeping team in step, from room turnaround to maintenance follow-up.',features:['Room status updates','Task assignments','Maintenance reporting']},
+{slug:'revenue',name:'Revenue management',short:'Revenue',icon:'chart',text:'Understand demand, review performance and make informed decisions about your room rates.',features:['Occupancy & rate insights','Demand visibility','Revenue reporting']},
+{slug:'inventory',name:'Inventory management',short:'Stock control',icon:'box',text:'Know what is on hand, what is running low and where supplies are going across your property.',features:['Stock movements','Reorder visibility','Supplier & purchasing records']}
+];
