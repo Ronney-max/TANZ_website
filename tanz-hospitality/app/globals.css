@@ -26,3 +26,5 @@ footer{background:#050a14;border-color:#1f344d}footer p,footer small{color:#a1b4
 @media(max-width:700px){.header nav{background:#081426;border-color:#284767}.header nav.open{box-shadow:0 15px 35px #0006}.hero-visual{border-radius:20px}}
 
 .hero-visual .tanz-artwork{display:none}.hero-visual.artwork-loaded{background:#000;aspect-ratio:1;height:auto;border-radius:20px}.hero-visual.artwork-loaded .tanz-artwork{display:block;width:100%;height:auto;object-fit:contain}.hero-visual.artwork-loaded .image-shade,.hero-visual.artwork-loaded .image-tag,.hero-visual.artwork-loaded .floating-card,.hero-visual.artwork-loaded .image-caption{display:none}
+
+.brand-image{flex-shrink:0;line-height:0}.provided-logo{width:100px;height:80px;object-fit:contain;border-radius:6px}footer .provided-logo{width:110px;height:90px}@media(max-width:700px){.header .provided-logo{width:80px;height:64px}}
