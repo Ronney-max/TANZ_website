@@ -28,6 +28,3 @@ footer{background:#050a14;border-color:#1f344d}footer p,footer small{color:#a1b4
 .hero-visual .tanz-artwork{display:none}.hero-visual.artwork-loaded{background:#000;aspect-ratio:1;height:auto;border-radius:20px}.hero-visual.artwork-loaded .tanz-artwork{display:block;width:100%;height:auto;object-fit:contain}.hero-visual.artwork-loaded .image-shade,.hero-visual.artwork-loaded .image-tag,.hero-visual.artwork-loaded .floating-card,.hero-visual.artwork-loaded .image-caption{display:none}
 
 .brand-image{flex-shrink:0;line-height:0}.provided-logo{width:100px;height:80px;object-fit:contain;border-radius:6px}footer .provided-logo{width:110px;height:90px}@media(max-width:700px){.header .provided-logo{width:80px;height:64px}}
-
-/* Details stay in the page flow, so they never cover another control. */
-.module:has(.info-panel){align-self:start}.module .info-panel p{margin:0 0 16px;color:#b9cbe1}.module .info-panel ul{margin:0;list-style:none;padding:0}.module .info-panel li{align-items:flex-start;margin-bottom:10px;font-size:14px;line-height:1.7}.module .info-panel li svg{margin-top:4px;color:#b4ff39}.principles .info-panel p{margin:0}.info-panel[hidden]{display:none}
